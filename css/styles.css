@@ -44,3 +44,20 @@ section.menu {
     height: 3px;
     margin-bottom: 50px;
 }
+
+.img-card {
+    width: 300px;
+    height: 300px;
+    margin: auto;
+}
+.img-card-amazon{
+    width: 300px;
+    height: 300px;
+    padding: 20px;
+    margin: auto;
+}
+.img-card-apple {
+    width: 370px;
+    height: 300px;
+    margin: auto;
+}
