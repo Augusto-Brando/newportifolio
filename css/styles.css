@@ -61,3 +61,9 @@ section.menu {
     height: 300px;
     margin: auto;
 }
+
+.card-body a {
+    color: blue;
+    cursor: pointer;
+
+}
