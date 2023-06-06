@@ -80,5 +80,9 @@ section.menu {
 .about-video {
     width: 600px;
     height: 600px;
-    margin: 200px auto -50px auto;
+    margin: 150px auto -50px auto;
+}
+
+.video-text{
+    margin: auto;
 }
