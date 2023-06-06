@@ -8,6 +8,7 @@
 html{
     box-sizing: border-box;
     height: 100%;
+    scroll-behavior: smooth !important;
 }
 
 body {
@@ -69,4 +70,15 @@ section.menu {
 
 .card-formacao {
     margin-top: 150px
+}
+
+.about-svg {
+    width: 120px;
+    height: 120px;
+}
+
+.about-video {
+    width: 600px;
+    height: 600px;
+    margin: 200px auto -50px auto;
 }
